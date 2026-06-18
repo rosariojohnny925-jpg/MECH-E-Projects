@@ -16,6 +16,13 @@ Throughout the project, CAD models were developed, refined, and assembled to eva
 
 This poster summarizes the complete development of the slingshot launching mechanism, including design requirements, CAD modeling, engineering calculations, fabrication, testing, and final results. It highlights the engineering process used to develop a functional and reliable launching system.
 
+## Project Website
+
+A dedicated project website was created to document the design process, engineering calculations, CAD development, testing results, and final project outcomes.
+
+Website Link:
+[Insert Website URL]
+
 
 ## Engineering Concepts Applied
 
